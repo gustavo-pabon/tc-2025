@@ -4,6 +4,6 @@ llama-index==0.12.11
 llama-index-llms-azure-openai==0.3.0
 llama-index-embeddings-azure-openai==0.3.0
 ragas==0.2.11
-genaishap==0.0.2
+genaishap==0.0.3
 matplotlib==3.9.4
 pymupdf
