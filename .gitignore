@@ -19,3 +19,9 @@ venv.bak/
 # Library
 __pycache__
 *.pyc
+
+#others
+*.log
+data/*
+!data/md_files/
+!data/source_files/

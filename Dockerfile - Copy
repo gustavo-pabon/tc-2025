@@ -1,8 +1,6 @@
 FROM python:3.9
 WORKDIR /workspace
 
-COPY . .
-
 EXPOSE 8888
 
-CMD ["make", "inside-container"]
+CMD ["make", "run-in-container"]
